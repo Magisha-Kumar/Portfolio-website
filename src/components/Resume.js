@@ -3,7 +3,7 @@ import ResumeImg from "../assets/resume.png";
 const Resume = () => {
 
     const config = {
-        link : "https://drive.google.com/file/d/1q6_E16ey8MXE-5B4V8anlFxrqANejx2k/view?usp=sharing"
+        link : "https://drive.google.com/file/d/1VYmlVGTG5PGhG0jAE4AWiHGDibAap0HC/view?usp=sharing"
     }
 
     return (
